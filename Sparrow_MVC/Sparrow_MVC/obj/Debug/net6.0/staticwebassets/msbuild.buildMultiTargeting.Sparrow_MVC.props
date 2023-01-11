@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sparrow_MVC.props" />
+</Project>

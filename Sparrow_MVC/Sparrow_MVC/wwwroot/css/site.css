@@ -1,0 +1,8 @@
+*{margin: 0px; padding:0px; list-style:none; lis}
+.bg-color {
+    background-color: #119896;
+    opacity:50%;
+}
+body{
+    background-image:url(../img/back-teste.jpg);
+}
