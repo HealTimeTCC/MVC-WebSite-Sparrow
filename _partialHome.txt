@@ -44,3 +44,19 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
+
+
+
+<div class=" principal-nav-item">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Sparrow - Tech</a>
+            </div>
+            <ul class="d-flex align-items-center principal-nav-item">
+                <li><a asp-area="" asp-controller="Home" asp-action="Produto">Produto</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Contato">Contato</a></li>
+                <li><button class="btn btn-info">Sing | Login</button></li>
+            </ul>
+
+
+<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>

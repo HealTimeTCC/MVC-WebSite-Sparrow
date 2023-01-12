@@ -10,23 +10,14 @@
 </head>
 <body>
     <header>
-        <nav class="bg-color d-flex justify-content-between align-items-center ">
-            <div>
-                <a class="" asp-area="" asp-controller="Home" asp-action="Index">Sparrow - Tech</a>
-            </div>
-
-                <ul class="d-flex align-content-center">
-                   <li>
-                        <a class="" asp-area="" asp-controller="Home" asp-action="Index">Projetos</a>
-                   </li>
-                   <li>
-                        <a class="" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a>
-                   </li>
-                </ul>
-                
+        <nav class="navbar navbar-expand-lg principal-nav bg-color d-flex justify-content-between">
+            <a class="principal-nav-item" asp-controller="Home" asp-action="Index">Sparrow | Tech</a>
+            <ul class="d-flex align-items-center principal-nav-item ">
+                <li><a class="li-item principal-nav-item" asp-area="" asp-controller="Home" asp-action="Produto">Produto</a></li>
+                <li><a class="li-item principal-nav-item" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a></li>
+                <li><button class="btn btn-info">Sing | Login</button></li>
+            </ul>
         </nav>
-
-        
     </header>
     <div class="container">
         <main role="main" class="pb-3">
