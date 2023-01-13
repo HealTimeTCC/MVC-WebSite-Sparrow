@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\img\\back-teste.jpg"
     },
     {
+      "Id": "D:\\ETEC\\etec3\\D-TCC\\Sparrow - MVC\\Sparrow_MVC\\Sparrow_MVC\\wwwroot\\img\\dados.png",
+      "PackagePath": "staticwebassets\\img\\dados.png"
+    },
+    {
+      "Id": "D:\\ETEC\\etec3\\D-TCC\\Sparrow - MVC\\Sparrow_MVC\\Sparrow_MVC\\wwwroot\\img\\images.jpeg",
+      "PackagePath": "staticwebassets\\img\\images.jpeg"
+    },
+    {
       "Id": "D:\\ETEC\\etec3\\D-TCC\\Sparrow - MVC\\Sparrow_MVC\\Sparrow_MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

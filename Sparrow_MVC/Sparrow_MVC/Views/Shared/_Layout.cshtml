@@ -10,26 +10,24 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg principal-nav bg-color d-flex justify-content-between">
-            <a class="principal-nav-item" asp-controller="Home" asp-action="Index">Sparrow | Tech</a>
+        <nav class="bg-color d-flex justify-content-between height-navbar align-items-center">
+           
+            <div>
+                <a class="principal-nav-item" asp-controller="Home" asp-action="Index">Sparrow | Tech</a>
+            </div>
             <ul class="d-flex align-items-center principal-nav-item ">
-                <li><a class="li-item principal-nav-item" asp-area="" asp-controller="Home" asp-action="Produto">Produto</a></li>
-                <li><a class="li-item principal-nav-item" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a></li>
+                <li><a class="principal-nav-item" asp-area="" asp-controller="Home" asp-action="Produto">Produto</a></li>
+                <li><a class="principal-nav-item" asp-area="" asp-controller="Home" asp-action="Contato">Contato</a></li>
                 <li><button class="btn btn-info">Sing | Login</button></li>
             </ul>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Sparrow_MVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <div class="container zero-margin">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
         </div>
-    </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -1,4 +1,8 @@
 *{margin: 0px; padding:0px; list-style:none; text-decoration:none;}
+body{
+    overflow-x:hidden;
+    padding:0;
+}
 a {
     text-decoration: none;
     font-size: 20px;
@@ -6,18 +10,18 @@ a {
 .bg-color {
     background-color: rgba(37, 140, 148, 0.5);
 }
-body{
-    background-image:url(../img/back-teste.jpg);
-}
-.principal-nav {
+
+.zero-margin {
     padding: 0;
     margin: 0;
 }
+
 .principal-nav-item {
     gap:3px;
     padding: 0;
     margin: 3px 5px;
     color:white
+
 }
 .li-item {
     padding: 2px;
@@ -32,4 +36,37 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+/*
+ *  Daqui para baixo trata-se: 
+ *  VIEW - Home
+*/
+
+.bg-image {
+    background-image: url(../img/back-teste.jpg);
+    background-repeat: no-repeat;
+    display:block;
+    width:100vw;
+    height: 50vh;
+}
+.init-balao {
+    width: 40vw;
+    height: 10vh;
+}
+.init-balao-item{
+    color:white;
+}
+.height-navbar{
+    height:5vh;
+}
+
+/*
+ *  Daqui para baixo trata-se: 
+ *  Partial View SobreNos.cshtml
+*/
+
+.sobre-nos-back{
+    height:100vh;
+    width:100vw;
+    background-color: brown;
 }
