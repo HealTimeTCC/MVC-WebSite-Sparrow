@@ -1,0 +1,34 @@
+/*
+ *    html {font-size: 14px;}
+ *    html {position: relative; min-height: 100%;}
+*/
+* {list-style:none; margin:0; padding:0;}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+/*
+ * PartialView
+ * _Login_Atalhos.cshtml
+ * Class{ 
+ *    comp-atalho-login = responsavel pela div pai da ul e button do lado esquerdo
+ *    li-linha-meio = LineHeight no meio
+ * }
+*/
+.li-item-my{
+    text-decoration:none;
+    line-height:2vh;
+    gap:5px;
+}
+
+.comp-atalho-login{
+    align-items:center;
+    background-color:aqua;
+}
