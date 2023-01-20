@@ -52,7 +52,7 @@
     gap: 50px;
     background-color:green;
     width:100vw;
-    height:40vh;
+    height:50vh;
     display:flex;
     justify-content:space-between;
 }
@@ -63,19 +63,25 @@
     margin:0px;
     background-color:green;
 }
+.diminui-img {
+    display:block;
+    width: 60%;
+    height:90%;
+}
 /* Relacionado a empresa 
  * MAX-WIDTH para adoçar a nossa vida
  *  
  */
-
-@media (max-width:700px){
+@media (max-width:1036px){
     .init {
-        background-color: red;
-        display: grid;
-        grid-template-rows: 45% 20%;
-        height: 60vh;
+        gap:10px;
+        width:100vw;
+        height:90vh;
+        display:flex;
+        flex-direction:column;
+        align-content:normal;
     }
-    .diminui-img{
-        width:230px;
+    .custom-image
+    .diminui-img {
     }
 }
