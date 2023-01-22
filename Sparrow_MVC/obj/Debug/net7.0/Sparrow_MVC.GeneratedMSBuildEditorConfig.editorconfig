@@ -20,8 +20,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/_Create_Company.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfQ3JlYXRlX0NvbXBhbnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/_Home_Apresentacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfSG9tZV9BcHJlc2VudGFjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/_Sobre_Nos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU29icmVfTm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/_Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Home/_Valor_Sparrow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmFsb3JfU3BhcnJvdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Produtos/Index.cshtml]
@@ -30,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Shared/_Footer_Geral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJfR2VyYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ETEC/etec3/D-TCC/Sparrow_MVC/Sparrow_MVC/Views/Shared/_Login_Atalhos.cshtml]
