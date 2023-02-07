@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DanMarzoGil\\.nuget\\packages\\": {},
-    "D:\\Arquivos de Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\etechas\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ETEC\\etec3\\D-TCC\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+      "projectUniqueName": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
       "projectName": "Sparrow_MVC",
-      "projectPath": "D:\\ETEC\\etec3\\D-TCC\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
-      "packagesPath": "C:\\Users\\DanMarzoGil\\.nuget\\packages\\",
-      "outputPath": "D:\\ETEC\\etec3\\D-TCC\\Sparrow_MVC\\Sparrow_MVC\\obj\\",
+      "projectPath": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+      "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
+      "outputPath": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Arquivos de Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DanMarzoGil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

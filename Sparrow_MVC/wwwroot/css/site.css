@@ -50,8 +50,13 @@ body{overflow-x:hidden;}
     display: flex;
     justify-content: space-between;
 }
-
-.sobre_nos, .create_company, .team, .valor-sparrow {
+.sobre_nos {
+    background-color: #d0fffed6;
+    height: calc(70vh - var(--Navbar-Max-Simple-HD));
+    width: 100%;
+    margin: 0px;
+}
+.create_company, .team, .valor-sparrow {
     height: calc(100vh - var(--Navbar-Max-Simple-HD));
     width: 100%;
     margin: 0px;
@@ -70,8 +75,8 @@ body{overflow-x:hidden;}
 }
 .create_company img
 {
-    width:400px;
-    height:500px;
+    width: 600px;
+    height:600px;
 }
 .create_company div p {
     text-align:center;
@@ -105,12 +110,13 @@ body{overflow-x:hidden;}
 }
 
 /*
-    card-footer -> Elemento Bootstrap -> Com modificações
-    btn -> Elemento bootstrap -> Mudança de cor
+    card-footer -> Elemento Bootstrap -> Com modificaï¿½ï¿½es
+    btn -> Elemento bootstrap -> Mudanï¿½a de cor
 */
 .card-footer {
     color:white;
     background-color: #0D0D0D;
+    margin-top: 100px;
 }
 .btn-color-padrao {
     background-color:var(--Cor-Padrao);
