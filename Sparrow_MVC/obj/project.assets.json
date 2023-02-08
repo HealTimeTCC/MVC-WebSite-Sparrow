@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+      "projectUniqueName": "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
       "projectName": "Sparrow_MVC",
-      "projectPath": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+      "projectPath": "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\3DS_Mayara\\Sparrow_MVC\\Sparrow_MVC\\obj\\",
+      "outputPath": "D:\\Sparrow_MVC\\Sparrow_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
