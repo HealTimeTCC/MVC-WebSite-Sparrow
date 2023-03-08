@@ -11,6 +11,7 @@
     list-style: none;
     margin: 0;
     padding: 0;
+
 }
 html{
     scroll-behavior:smooth;
@@ -50,6 +51,8 @@ body{overflow-x:hidden;}
     display: flex;
     justify-content: space-between;
 }
+
+
 .sobre_nos {
     background-color: #d0fffed6;
     height: calc(70vh - var(--Navbar-Max-Simple-HD));
@@ -70,18 +73,42 @@ body{overflow-x:hidden;}
 .valor-sparrow {
     background-color: #d0fffed6;
 }
+
+.nossos_valores {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.text_valores {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.valores_img img {
+    margin-top: 100px;
+    margin-left: 80px;
+    height: 200px;
+    width: 200px;
+}
+
 .create_company {
     background-color: var(--Create-Company);
     align-items: center;
     justify-content: space-between;
 }
-.create_company img
-{
+.create_company img{
     width: 600px;
     height:600px;
 }
 .create_company div p {
+    padding-top:25px;
     text-align:center;
+    margin-left: 40px;
+}
+
+.sobre_home{
+        padding-top:30px;
+        text-align:center;
 }
 
 .team {
@@ -92,7 +119,7 @@ body{overflow-x:hidden;}
 .quadro {
     height: 200px;
     width: 200px;
-    background-color: #f2fffdff;
+    border-radius:100px;
 }
 .team_conteudo {
     height: 50%;

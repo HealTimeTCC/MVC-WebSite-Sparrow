@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj": {}
+    "D:\\3DS_Mayara_Nicolly\\MVC-WebSite-Sparrow\\Sparrow_MVC\\Sparrow_MVC.csproj": {}
   },
   "projects": {
-    "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj": {
+    "D:\\3DS_Mayara_Nicolly\\MVC-WebSite-Sparrow\\Sparrow_MVC\\Sparrow_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+        "projectUniqueName": "D:\\3DS_Mayara_Nicolly\\MVC-WebSite-Sparrow\\Sparrow_MVC\\Sparrow_MVC.csproj",
         "projectName": "Sparrow_MVC",
-        "projectPath": "D:\\Sparrow_MVC\\Sparrow_MVC\\Sparrow_MVC.csproj",
+        "projectPath": "D:\\3DS_Mayara_Nicolly\\MVC-WebSite-Sparrow\\Sparrow_MVC\\Sparrow_MVC.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\Sparrow_MVC\\Sparrow_MVC\\obj\\",
+        "outputPath": "D:\\3DS_Mayara_Nicolly\\MVC-WebSite-Sparrow\\Sparrow_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
